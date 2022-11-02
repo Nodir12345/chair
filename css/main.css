@@ -148,7 +148,9 @@ label.color-6{
   animation: shake 0.7s cubic-bezier(.36,.07,.19,.97) both;
 }
 .img-wrap.chair-6{
-  background-image: url('https://assets.codepen.io/1462889/ch6.png');
+  background-image: url('/img/NodirbekXaydarov.png');
+  max-width: 300px;
+  margin-top: 100px;
 }
 .for-color-6:checked ~ .img-wrap.chair-6{
   opacity: 1;
